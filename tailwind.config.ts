@@ -7,7 +7,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "hsl(var(--background))",
+        primary: '#191716',
+        white: '#F3EAF4',
+        blue: '#90F1EF',
+        wisteria: '#B4A0E5',
+        red: '#F87575',
         foreground: "hsl(var(--foreground))",
         btn: {
           background: "hsl(var(--btn-background))",
